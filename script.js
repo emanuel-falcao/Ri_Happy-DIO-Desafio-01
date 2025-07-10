@@ -11,7 +11,7 @@ function cadastrarHeroi() {
         rl.question("Quantos pontos de experiência (XP) ele possui?", function (xp) {
             const experiencia = parseInt(xp);
             let nivel = ""
-            if (isNaN(experiencia) !! experiencia < 1000) {
+            if (isNaN(experiencia) || experiencia < 1000) {
                 console.log("Por favor insira um valor numerico valido para a XP");
             } else {
                 if (experiencia < 1000) {
