@@ -62,5 +62,6 @@ Sou apaixonado por tecnologia, e acredito que a melhor forma de aprender é cons
 - 📧 Email: emanuel.falcao@exemplo.com  
 - 💼 LinkedIn: [linkedin.com/in/emanuel-falcao](https://linkedin.com/in/emanuel-falcao)  
 - 💻 GitHub: [github.com/emanuelfalcao](https://github.com/emanuelfalcao)
+v![Minha imagem](./ativos/foto_atual_1.jpg)s
 
 Se você gostou dos projetos, fique à vontade para seguir, contribuir ou mandar um feedback! 😊
